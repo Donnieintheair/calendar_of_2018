@@ -17,7 +17,7 @@
 		for(var i=0;i<month.length; i++){
 			//加表格名
 			var caption = document.createElement("caption");
-			var captiontxt = document.createTextNode(i+1+"月");
+			var captiontxt = document.createTextNode("2018年"+(i+1)+"月");
 			caption.appendChild(captiontxt);
 			month[i].appendChild(caption);
 			//加标题栏

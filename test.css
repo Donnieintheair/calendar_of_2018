@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+	body{ text-align:center;}
+	table{ border:1px solid black; border-collapse:collapse; width:800px; margin:20px auto;}
+	th{ border:1px solid black; height:50px;}
+	td{ border:1px solid black; height:100px; font-size:20px;}
+	.mydayup{ height:22px; background:pink; text-align:center; padding:14px;}
+	.mydayupwork{ background-image:url(https://img.alicdn.com/imgextra/i3/1989563248/TB2uCTQdpooBKNjSZPhXXc2CXXa_!!1989563248.jpg)}
+	.mydaydown{ height:50px; background:lightblue;}
+	.mynum{ margin:0}
+	caption{ font-size:26px;}
+	#choose{ position:absolute; left:200px; width:50px; height:30px;}
+	#mydiv{ width:500px; background-color:pink; height:50px;}
+
